@@ -105,7 +105,7 @@ function sendDataToSpreadsheet(arr) {
 
 
 function getData() {
-  const tenantId = 986291513;
+  const tenantId = 0;
   const accessToken = getAccessToken();
   const appKey = '';
   const urls = buildUrls(tenantId);
