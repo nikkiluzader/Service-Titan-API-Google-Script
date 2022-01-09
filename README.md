@@ -12,5 +12,5 @@ Here are a few steps to help you get started.
 
 1. Request API access by emailing ServiceTitan. Just google it.
 2. Login and create an App in ServiceTitan. This will provide you with an app ID and tenant ID.
-3. YGo to your integrations panel and add the app integration. This will provide you with a client ID and client secret.
+3. Go to your integrations panel and add the app integration. This will provide you with a client ID and client secret.
 4. Plug in all of those values into the code.
