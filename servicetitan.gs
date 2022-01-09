@@ -139,8 +139,7 @@ function getData() {
   const responseData = JSON.parse(response);
   Logger.log(JSON.stringify(responseData.data, null, 2))
 
+  // uncomment to dump the data to a google spreadsheet
   //const arr = convertJSONto2dArray(responseData)
-
   //sendDataToSpreadsheet(arr)
-
 }
