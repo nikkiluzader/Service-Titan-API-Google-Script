@@ -1,4 +1,4 @@
-# SUNDER DEVELOPMENT
+# UNDER DEVELOPMENT
 
 This script is intended to help users like me who had to figure out how to write this in JavaScript.
 
